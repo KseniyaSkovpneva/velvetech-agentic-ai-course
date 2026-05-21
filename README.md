@@ -1,2 +1,30 @@
-# velvetech-agentic-ai-course
-Shared workspace for the Agentic AI course
+# Agentic AI for Non-Technical Specialists
+
+Welcome to the shared course repo. This is where all participants contribute their work throughout the 13 sessions.
+
+## Participants
+
+Add your name and role below when you complete the session 01 homework:
+
+| Name | Role | Session 01 PR |
+|------|------|---------------|
+| _your name_ | _your role_ | ✅ |
+
+## Structure
+
+Each participant works in their own folder. Common structure:
+'''
+your-name/
+  CLAUDE.md
+  requirements/
+  reviews/
+  prompts/
+  reflections/
+  governance/
+'''
+
+## Course info
+
+- 13 sessions · 45–60 min each
+- Start: mid-May 2026
+- Facilitator: Ivan Tishchenko
