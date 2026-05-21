@@ -13,7 +13,8 @@ Add your name and role below when you complete the session 01 homework:
 ## Structure
 
 Each participant works in their own folder. Common structure:
-'''
+
+```
 your-name/
   CLAUDE.md
   requirements/
@@ -21,7 +22,7 @@ your-name/
   prompts/
   reflections/
   governance/
-'''
+```
 
 ## Course info
 
