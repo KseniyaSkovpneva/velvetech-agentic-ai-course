@@ -8,7 +8,7 @@ Add your name and role below when you complete the session 01 homework:
 
 | Name | Role | Session 01 PR |
 |------|------|---------------|
-| _your name_ | _your role_ | ✅ |
+| Ivan Tishchenko|BA | ✅ |
 
 ## Structure
 
