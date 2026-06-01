@@ -10,6 +10,7 @@ Add your name and role below when you complete the session 01 homework:
 |------|------|---------------|
 | Ivan Tishchenko|BA | ✅ |
 | Tazkia Qurrataayun|Customer Support | No PR yet|
+| Kseniya Skovpneva|BA|✅ |
 
 ## Structure
 
