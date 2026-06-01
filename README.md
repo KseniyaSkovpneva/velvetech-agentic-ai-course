@@ -12,8 +12,8 @@ Add your name and role below when you complete the session 01 homework:
 | Almaz Hakimov|PO | ✅ |
 | Gregory Volosov|QA | ✅ |
 | Margarita Sakharova|BI | ✅ |
-| Stephanie Oliveira | Customer Support Specialist | No PR yet |
-| Tazkia Qurrataayun|Customer Support | No PR yet|
+| Stephanie Oliveira | Customer Support Specialist | ✅ |
+| Tazkia Qurrataayun|Customer Support | ✅ |
 | Kseniya Skovpneva|BA|✅ |
 
 ## Structure
