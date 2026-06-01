@@ -15,6 +15,8 @@ Add your name and role below when you complete the session 01 homework:
 | Stephanie Oliveira | Customer Support Specialist | ✅ |
 | Tazkia Qurrataayun|Customer Support | ✅ |
 | Kseniya Skovpneva|BA|✅ |
+1
+
 
 ## Structure
 
