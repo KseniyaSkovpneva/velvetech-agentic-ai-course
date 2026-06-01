@@ -10,6 +10,9 @@ Add your name and role below when you complete the session 01 homework:
 |------|------|---------------|
 | Ivan Tishchenko|BA | ✅ |
 | Stephanie Oliveira | Customer Support Specialist | No PR yet |
+| Tazkia Qurrataayun|Customer Support | No PR yet|
+| Kseniya Skovpneva|BA|✅ |
+
 ## Structure
 
 Each participant works in their own folder. Common structure:
