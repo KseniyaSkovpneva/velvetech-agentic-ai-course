@@ -9,6 +9,7 @@ Add your name and role below when you complete the session 01 homework:
 | Name | Role | Session 01 PR |
 |------|------|---------------|
 | Ivan Tishchenko|BA | ✅ |
+| Almaz Hakimov|PO | ✅ |
 | Gregory Volosov|QA | ✅ |
 | Margarita Sakharova|BI | ✅ |
 | Stephanie Oliveira | Customer Support Specialist | No PR yet |
